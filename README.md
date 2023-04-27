@@ -43,7 +43,7 @@
 
 #### - 🔭 NBA FanBoi, 
 
-#### - 🛸 Into Hight Automating and AI
+#### - 🛸 Into Automating and AI
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
 
