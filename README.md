@@ -3,7 +3,7 @@
 
 
 <br/>
-<a href="https://twitter.com/cattieuwu">
+  <a href="https://twitter.com/z4nce">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/404/">
@@ -43,7 +43,7 @@
 
 #### - 🛸 Into Automating and AI
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
+#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/z4nce/)
 
 
 <br />
@@ -51,7 +51,7 @@
 
 **I am Into , 🙏**
 
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Basketball 😼**
 <br />
 
 
