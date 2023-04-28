@@ -1,4 +1,4 @@
-````bash
+@@ !bash @@
 ### Hi there, I'm [z4nce!](https://vbin.club) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
